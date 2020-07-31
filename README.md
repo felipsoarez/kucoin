@@ -6,3 +6,13 @@
  <a href="https://liberapay.com/datacryptoanalytics/donate">  <img alt="Donate using Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>
 
 Algorithms for KUCOIN Exchange
+
+Instalar dependências se necessário 
+
+- pandas
+
+`~$ pip install pandas`
+
+- python-kucoin
+
+`~$ pip install python-kucoin`
